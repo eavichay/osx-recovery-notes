@@ -1,6 +1,7 @@
 AppCleaner
 Apple Configurator 2
 Balsamiq Mockups 3
+Better Touch Tool
 BitPay
 Brave
 Celestia
