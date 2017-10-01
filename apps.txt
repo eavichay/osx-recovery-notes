@@ -1,0 +1,61 @@
+AppCleaner
+Apple Configurator 2
+Balsamiq Mockups 3
+BitPay
+Brave
+Celestia
+Charles
+Cyberduck
+Docker
+Evernote
+GitKraken
+Gitter
+GitUp
+Google Chrome Canary
+Google Chrome
+Hiri
+Hyper
+Insomnia
+IntelliJ IDEA
+iTerm2
+LastPass
+Leap Motion
+LMMS
+Microsoft OneNote
+Microsoft Remote Desktop
+Minecraft
+MySQLWorkbench
+nwjs
+OpenTTD
+Opera Neon
+Opera
+Origin
+Pastebot
+Picky
+Pingendo3
+Plantronics Hub
+PlayOnMac
+Scratch 1.4
+Screenhero
+Sequel Pro
+SimpleMind Lite
+Skitch
+Skype
+Slack
+SourceTree
+Steam
+Sublime Text
+TeamViewer
+Toolbox for Keynote
+Transmission
+Trello
+unetbootin
+VirtualBox
+Visual Studio Code
+Visual Studio
+WebStorm
+Wunderlist
+Xamarin Profiler
+Xamarin Workbooks
+Xcode
+XMenu
